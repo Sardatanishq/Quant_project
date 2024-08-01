@@ -1,1 +1,1 @@
-# Quant_project
+# AlgorithmicTrading_project
